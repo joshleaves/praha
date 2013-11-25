@@ -1,0 +1,6 @@
+language: node_js
+deploy:
+  api_key:
+    secure: HudiVRr+zmhezlL7v4R1UFUGjjoKg0gl3AtbzArhKiFMe9Rveal4zropohbR4rhknyf71hMFiv0sVlHzAU5kUD3Six3Ioybg+rgNR5PYLck6EW0Ym0PPhUCt01Y0nSpy6iV6hNl2a6JE08vZi0qt7KcfIJohtp3x4ldICWJ4m10=
+  email: red@dreamleaves.org
+  provider: npm
