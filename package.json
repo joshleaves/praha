@@ -1,0 +1,22 @@
+{
+  "name": "praha",
+  "version": "0.0.1",
+  "description": "a node.js microframework inspired by rails",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joshleaves/praha.git"
+  },
+  "keywords": [
+    "nodejs",
+    "framework",
+    "microframework"
+  ],
+  "dependencies": {
+    "debug": "0.7.4"
+  },
+  "author": "Arnaud \"red\" Rouyer <red@dreamleaves.org>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/joshleaves/praha/issues"
+  }
+}
